@@ -1,0 +1,1 @@
+What are the differences between Java Development Kit (JDK) and Java Runtime Environment (JRE)?
