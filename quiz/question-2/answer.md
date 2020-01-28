@@ -1,0 +1,7 @@
+Overall: Java is more than a programming language. When we say Java SE and Java EE, we are treating Java as a platform. So the full name is *Java Platform Standard Edition* for **Java SE** and *Java Platform Enterprise Edition* for **Java EE**. (See [Differences between Java SE and Java EE from Oracle](https://docs.oracle.com/javaee/6/firstcup/doc/gkhoy.html))
+
+Checkpoint 1: Both Java SE and Java EE are specifications rather than certain pieces of software implementation.
+
+Checkpoint 2: Java SE is defined for development and deployment of portable code for desktop and server environments. It defines *Java Language Specification* and *Java Virtual Macine Specification*, a range of general purpose APIs such as *Java APIs* for **Java Class Library**.(See [Wikipedia](https://en.wikipedia.org/wiki/Java_Platform,_Standard_Edition))
+
+Checkpoint 3: Java EE is built on top of Java SE. It is defined mainly for enterprise features such as distributed computing and web services. It defines API and interactions including *Web specifications*, *Web service specifications*, *Enterprise specifications* and *Other specifications*. (See [Wikipedia](https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition))
