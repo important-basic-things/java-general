@@ -22,4 +22,4 @@ Incorrect. An update does not need to be installed over a prior version—it con
 
 Incorrect. JavaFX is a software platform for creating and delivering desktop applications, as well as rich Internet applications (RIAs) that can run across a wide variety of devices. (See [Wikipedia](https://en.wikipedia.org/wiki/JavaFX)). JavaFX is intended to replace Swing as the standard GUI library for Java SE.
 
-Java FX is not part of Java SE. But it is now part of Oracle Java SE Implementation (since Java SE 7 update 6). Since the JDK 11 release in 2018, JavaFX is part of the open-source OpenJDK, under the OpenJFX project.
+Java FX is not part of Java SE. But it is now part of Oracle JDK (since Oracle Java SE 7 update 6). Since the JDK 11 release in 2018, JavaFX is part of the open-source OpenJDK, under the OpenJFX project.
