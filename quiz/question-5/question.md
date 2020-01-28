@@ -1,0 +1,1 @@
+Why we need to add the JDK */bin* folder to the `PATH` environment variable.

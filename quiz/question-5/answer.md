@@ -1,0 +1,1 @@
+The `PATH` variable is used by operating system traverses to locate executable files. The */bin* path of JDK contains common tools such as Java compiler. So we add */bin* to `PATH` variable in order to quickly invoke JDK related commands.

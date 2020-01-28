@@ -1,0 +1,1 @@
+It is probably because you did not add JDK */bin* path into the `PATH` environment variable.
