@@ -1,0 +1,1 @@
+The output of the program should be `2`. This is because a `char` can only represent from `\u0000` to `\uffff`. So when a unicode character's code point is beyond this range, it will use 2 `char`s to represent one codepoint. The `length()` method of `String` returns only the number of `char`s rather than that of the codepoint, so the output should be `2`. 
