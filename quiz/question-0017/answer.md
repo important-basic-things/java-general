@@ -1,0 +1,1 @@
+Floating-point numbers are not suitable for financial calculations because the roundoff errors cannot be tolerated in most of the cases. So if we want to control the number of digits and rounding arithmetic, we should use `BigDecimal` class.
