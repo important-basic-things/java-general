@@ -1,0 +1,1 @@
+What is the maximum code that a `char` primitive type can represent?

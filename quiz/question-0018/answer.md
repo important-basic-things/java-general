@@ -1,0 +1,1 @@
+According to Java Language Specification, the range a `char` can represent is `\u0000` to `\uffff` (inclusive). That is, from `0` to `65535`.
