@@ -1,0 +1,1 @@
+In Java, you can never use the value of an uninitialized variable. It is a compile time error.
