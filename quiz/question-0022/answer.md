@@ -1,0 +1,1 @@
+In Java, you use the keyword `final` to denote a constant. The keyword indicates that you can only assign to the variable once. So line *2* and line *6* have syntax error.
