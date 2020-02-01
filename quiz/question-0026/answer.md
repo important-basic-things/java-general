@@ -1,0 +1,2 @@
+* The `Month` enum starts from 1 rather than 0. So if the result is `DECEMBER`, the calculated result will be `0`. An exception will be thrown.
+* The `%` operator may not work as expected if the plus result is a negative number.
