@@ -1,0 +1,1 @@
+You are using `java.lang.Math` class to do computational work on floating point numbers and you found that some of the result differs against different platforms. You want to avoid this. How to fix that?
