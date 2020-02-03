@@ -1,0 +1,1 @@
+Well, there is nothing to explain. The result will be the same in this case.
