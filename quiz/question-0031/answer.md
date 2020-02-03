@@ -1,0 +1,1 @@
+The program cannot compile. That is beacuse in Java, you cannot cast between boolean values with any numeric type.
