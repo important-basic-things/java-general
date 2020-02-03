@@ -1,0 +1,1 @@
+It is very common to use an integer to represent bit combindable flags. Usually 1 bit per mode. If the flag contains 40 modes, then we need an integer which can hold 40 bits. So we should use `long`.

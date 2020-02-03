@@ -1,0 +1,1 @@
+If you want to use an integer to represent a combindable flag. And the flag contains 40 modes. Which kind of integer will you use? Why?
