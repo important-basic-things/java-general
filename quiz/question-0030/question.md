@@ -1,0 +1,1 @@
+A `long` number can be implicitly convert to `double`. Thus it is safe to assign a `long` number to a `double`. Is that correct? Why?
