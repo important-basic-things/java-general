@@ -1,0 +1,1 @@
+The correct answer is `left.equalsIgnoreCase(right)`. Do not conver case especially using `toUpperCase` because of localization issue.
