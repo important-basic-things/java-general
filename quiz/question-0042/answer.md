@@ -1,0 +1,1 @@
+This program will generate runtime error. A `NullPointerException` will be thrown while comapre `person.name` with `null` using `equals` method. This is because the value of `person.name` is `null`.
