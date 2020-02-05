@@ -1,0 +1,1 @@
+The output is `John`. This is because the `String` object is immutable. Call to method `concate` will finally create a new `String` instance. Thus the original string `John` will not be changed.
