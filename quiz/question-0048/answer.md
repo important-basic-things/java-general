@@ -1,0 +1,1 @@
+The `StringBuffer` class is slightly less efficient than `StringBuilder`. It allows multiple threads to add or remove characters. If all string editing happens in a single thread, you should use `StringBuilder` instead. The APIs of both classes are identical.

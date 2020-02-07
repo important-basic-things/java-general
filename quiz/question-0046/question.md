@@ -1,0 +1,1 @@
+What is the problem when concat multiple (more than 3, for example) `String` objects together using `+` operator? How to solve that issue?

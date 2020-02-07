@@ -1,0 +1,1 @@
+Every time you concatenate `String`s, a new `String` instance is constructed. This is time consuming and wastes memory. We can using the `StringBuilder` class avoids this problem.

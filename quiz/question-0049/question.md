@@ -1,0 +1,1 @@
+The `StringBuilder` class also contains method to manipulate code point. For example, `StringBuilder appendCodePoint(int cp)`. If we call `length()` method before and after calling `appendCodePoint` method, what are the possible results?

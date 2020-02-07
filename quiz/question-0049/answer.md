@@ -1,0 +1,1 @@
+The number of code units returned by `length()` method may increase by 1 or 2. Depending on the number of code unit in the appended code point.
