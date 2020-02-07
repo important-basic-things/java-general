@@ -1,0 +1,1 @@
+This is because Java `String` is coded in UTF-16 manner. A UTF-16 requires at most 2 code units (`char`) to represent a code point. So a 16-bit `char` cannot cover all code points. If the code point is a surrogate pair, it requires 2 `char`s. So the return value should be 32-bit integer, and thus `int`.
