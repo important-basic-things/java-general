@@ -1,1 +1,1 @@
-What are the relationship between Java SE, Oracle JDK and OpenJDK.
+When we installing JDK on different platforms. We are facing so many choices. For example, Java SE, Oracle JDK, or OpenJDK. What are the relationship between Java SE, Oracle JDK and OpenJDK.

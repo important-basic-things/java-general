@@ -1,3 +1,5 @@
+In a development environment, we usually run our Java program via IDE. But in a production environment, we should run Java program via command line.
+
 Now I have compiled a single file program *Hello.java* into *Hello.class*. I would like to run the program using the following command:
 
 ```bash

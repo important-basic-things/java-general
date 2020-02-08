@@ -1,3 +1,5 @@
+In Java, you must name your source code file correctly, or an syntax error will be generated.
+
 If you have defined the following class:
 
 ```java

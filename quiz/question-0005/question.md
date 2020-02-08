@@ -1,1 +1,1 @@
-Why we need to add the JDK */bin* folder to the `PATH` environment variable.
+When JDK is installed on our operating system. We can find that it is most possible that the */bin* folder of JDK has been set to the `PATH` environment variable. Why we need to add the JDK */bin* folder to the `PATH` environment variable.

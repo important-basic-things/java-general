@@ -1,1 +1,1 @@
-What are the differences between Java SE and Java EE?
+When we search Java related concepts on the internet, we often hear about Java SE and Java EE. What are the differences between Java SE and Java EE?

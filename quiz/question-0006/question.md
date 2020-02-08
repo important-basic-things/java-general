@@ -1,1 +1,1 @@
-It is very certain that the JDK has been installed. But when I invoke `javac -version` the terminal displays `Command not found`. Do you know why?
+Sometimes, we may find that no command in JDK is available after the JDK installation. For example, when I invoke `javac -version` the terminal displays `Command not found`. Do you know why?

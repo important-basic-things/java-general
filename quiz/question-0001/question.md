@@ -1,1 +1,1 @@
-What are the differences between Java Development Kit (JDK) and Java Runtime Environment (JRE)?
+When installing Java on our operating system. We often hear about JDK and JRE. What are the differences between Java Development Kit (JDK) and Java Runtime Environment (JRE)?

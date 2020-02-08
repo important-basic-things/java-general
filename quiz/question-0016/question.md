@@ -1,3 +1,5 @@
+Floating point computation contains lots of challenging works. For example, how to correctly handle infinity and not-a-number.
+
 What is the following output, and why?
 
 ```java

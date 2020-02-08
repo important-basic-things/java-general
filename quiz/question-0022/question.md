@@ -1,3 +1,5 @@
+The `final` key word can prevent us from accidentally modify the value of the variable. But we should know how `final` really works.
+
 Which of the statement(s) has(have) syntax error? And why?
 
 ```java

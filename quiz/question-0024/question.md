@@ -1,3 +1,5 @@
+In Java, one of the most vulnerable operation is doing integer arithmetics. So we should always very careful while doing that kind of operation. 
+
 What is the execution result of the following statement? And why?
 
 ```java

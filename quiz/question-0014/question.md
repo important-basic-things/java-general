@@ -1,3 +1,5 @@
+JVM specifies the length of each integer primitive type. So that there will all behave the same on different platforms. It is important to remember their length (either in *bit* or in *byte*.)
+
 Which of the following statements are true?
 
 1. The primitive types `int`, `short`, `long` and `byte` are all signed integer types.

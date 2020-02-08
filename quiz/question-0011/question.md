@@ -1,4 +1,4 @@
-Given the following source code:
+The entrance of a Java program is the `main` method. Given the following source code:
 
 ```java
 // Hello.java
