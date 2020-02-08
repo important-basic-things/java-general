@@ -1,0 +1,1 @@
+The link break character differes from different platforms. For example, in Windows, the line break characters are `\r\n`, in linux `\n`. If I would like to insert a platform dependent line break in my string construction. How to do that?
